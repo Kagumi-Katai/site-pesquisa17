@@ -1,0 +1,17 @@
+body {
+    padding-top: 60px;
+    color: white
+}
+
+.mainContent {
+    width: 85%;
+    margin: auto;
+    margin-top: 100px;
+}
+
+.article {
+    margin-top: 5px;
+    border-radius: 15px;
+    background-color: gray;
+}
+
